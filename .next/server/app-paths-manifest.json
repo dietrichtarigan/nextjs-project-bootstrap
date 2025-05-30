@@ -1,0 +1,13 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/articles/page": "app/articles/page.js",
+  "/auth/page": "app/auth/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/alumni/page": "app/alumni/page.js",
+  "/events/page": "app/events/page.js",
+  "/opportunities/page": "app/opportunities/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/page": "app/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/page": "app/admin/page.js"
+}
